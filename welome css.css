@@ -1,0 +1,54 @@
+body{
+background-color:deepskyblue;
+padding-right: 500px;
+padding-left: 500px;
+padding-top: 50px;
+
+}
+
+
+h1
+{
+    text-align: center;
+color: deepskyblue;
+}
+#header1{
+    background-color:white;
+    height: 400px;
+    width: 300px;
+    padding: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius:100px ;
+    
+    
+}
+
+.username{
+    display:block;
+    border: none;
+	border-bottom: 2px solid #D1D1D4;
+    width: 100%;
+  padding: 12px 20px;
+}.pass{
+    display:block;
+    border: none;
+	border-bottom: 2px solid #D1D1D4;
+    width: 100%;
+  padding: 12px 20px;
+}
+
+.login{
+    display:inline-blocks;
+    width: 350px;
+    background-color: deepskyblue;
+    height: 50px;
+    color: white;
+    border-radius: 25px;
+    border-color: deepskyblue;
+}
+
+
+
+.signup{
+    text-align: center;
+}
